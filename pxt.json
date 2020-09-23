@@ -1,0 +1,21 @@
+{
+    "name": "microbit-airpressure",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "STEM with TFabConnect": "github:tfabworks/stem#64a24072240e749c68b99a483ff5a9710392311a"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
